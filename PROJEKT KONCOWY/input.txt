@@ -1,0 +1,18 @@
+Jan 
+Kowalski 30 Asia Nogas 57
+12 143 35 50 23
+aaa
+Anna Nowak 40
+
+Piotr Iksinski 50
+aaa bbb
+Marcin Igrekowski 60
+aaa bbb ccc
+
+Stanislaw 
+Programowalski 71
+aaa bb ccc ddd
+10 aaa bbb
+
+Maciej Grzech 35
+nik 13

@@ -1,0 +1,5 @@
+﻿  PROJEKT KONCOWY.cpp
+C:\Users\admin\Desktop\FOP\PROJEKT KONCOWY\PROJEKT KONCOWY\PROJEKT KONCOWY.cpp(79,40): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\admin\Desktop\FOP\PROJEKT KONCOWY\PROJEKT KONCOWY\PROJEKT KONCOWY.cpp(369,44): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\admin\Desktop\FOP\PROJEKT KONCOWY\PROJEKT KONCOWY\PROJEKT KONCOWY.cpp(557,45): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  PROJEKT KONCOWY.vcxproj -> C:\Users\admin\Desktop\FOP\PROJEKT KONCOWY\x64\Debug\PROJEKT KONCOWY.exe
